@@ -18,13 +18,19 @@ Este é um espaço dedicado a:
 CoddyTech-Practices/
 ├── README.md
 ├── python/
-│   └── daily-expense-tracker/
+│   └── [challenge-name]/
+│       ├── ChallengeName.py
 │       ├── README.md
-│       └── DailyExpenseTracker.py
+│       └── assets/
+│           ├── screenshot-code.png
+│           └── challenge-description.md
 └── javascript/
-    └── what-to-buy/
+    └── [challenge-name]/
+        ├── ChallengeName.js
         ├── README.md
-        └── WhatToBuy.js
+        └── assets/
+            ├── screenshot-code.png
+            └── challenge-description.md
 ```
 
 ---
@@ -33,7 +39,7 @@ CoddyTech-Practices/
 
 | Projeto | Descrição | Status | Post |
 |---------|-----------|--------|------|
-| **Daily Expense Tracker** | Sistema de rastreamento de despesas diárias | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
+| [**Daily Expense Tracker**](/python/daily-expense-tracker/) | Sistema de rastreamento de despesas diárias | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
 
 ---
 
@@ -41,7 +47,8 @@ CoddyTech-Practices/
 
 | Projeto | Descrição | Status | Post |
 |---------|-----------|--------|------|
-| **What To Buy** | Gerenciador de lista de compras | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
+| [**What To Buy**](/javascript/what-to-buy/) | Gerenciador de lista de compras | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
+| [**Analyze Car Data**](/javascript/analyze-car-data/) | Análise de inventário de concessionária | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
 
 ---
 
@@ -54,10 +61,9 @@ CoddyTech-Practices/
 
 ### Para adicionar um novo projeto:
 1. Crie uma pasta com o nome do desafio em kebab-case na linguagem correspondente
-2. Copie o arquivo `TEMPLATE.md` para `README.md` dentro da pasta
-3. Preencha a documentação seguindo o template
-4. Adicione o código-fonte na pasta
-5. Atualize este `README.md` com a nova entrada
+2. Adicione o código-fonte (`[NomeArquivo].js` ou `.py`)
+3. Crie a pasta `assets/` com `screenshot-code.png` e `challenge-description.md`
+5. Atualize este `README.md` com a nova entrada na tabela correspondente
 
 ---
 
