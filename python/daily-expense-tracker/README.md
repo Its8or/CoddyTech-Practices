@@ -90,7 +90,8 @@ daily-expense-tracker/
 ├── DailyExpenseTracker.py       # Código-fonte principal
 ├── README.md                     # Este arquivo
 └── assets/                       # Screenshots e exemplos
-    └── exemplo-execucao.png
+    ├── screenshot-code.png
+    └── challenge-description.md
 ```
 
 ---

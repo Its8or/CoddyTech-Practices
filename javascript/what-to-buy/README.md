@@ -91,7 +91,8 @@ what-to-buy/
 ├── WhatToBuy.js                 # Código-fonte da solução
 ├── README.md                     # Este arquivo
 └── assets/                       # Screenshots e exemplos
-    └── exemplo-output.png
+    ├── screenshot-code.png
+    └── challenge-description.md
 ```
 
 ---
