@@ -39,7 +39,7 @@ CoddyTech-Practices/
 
 | Projeto | Descrição | Status | Post |
 |---------|-----------|--------|------|
-| [**Daily Expense Tracker**](/python/daily-expense-tracker/) | Sistema de rastreamento de despesas diárias | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
+| [**Daily Expense Tracker**](/python/daily-expense-tracker/README.md) | Sistema de rastreamento de despesas diárias | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
 
 ---
 
@@ -47,8 +47,8 @@ CoddyTech-Practices/
 
 | Projeto | Descrição | Status | Post |
 |---------|-----------|--------|------|
-| [**What To Buy**](/javascript/what-to-buy/) | Gerenciador de lista de compras | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
-| [**Analyze Car Data**](/javascript/analyze-car-data/) | Análise de inventário de concessionária | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
+| [**What To Buy**](/javascript/what-to-buy/README.md) | Gerenciador de lista de compras | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
+| [**Analyze Car Data**](/javascript/analize-car-data/README.md) | Análise de inventário de concessionária | ✅ Concluído | [LinkedIn](https://www.linkedin.com/in/heitor-terto/) |
 
 ---
 
